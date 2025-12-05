@@ -1,7 +1,3 @@
-Here’s a **generic documentation** you can share with your friend on **setting up Git with SSH on Windows**:
-
-***
-
 # ✅ How to Set Up Git with SSH on Windows
 
 This guide will help you configure SSH keys for GitHub so you can push and pull code securely without entering your password every time.
